@@ -1,1 +1,7 @@
 # Business-Case-Walmart---Confidence-Interval-and-CLT
+
+Walmart founded in 1962 by Sam Walton , is a retail giant and one of the world's largest and most influential companies.Headquartered in Bentonville, Arkansas ,this American multinational corporation has established itself as a global powerhouse in theretail industry. Walmart operates a vast network of hypermarkets, discount department stores, and grocery stores under various brandnames across the United States and in numerous countries around the world. Known for its "Everyday Low Prices" strategy, Walmart has redefined the retail landscape with its commitment to offering a widerange of products at affordable prices. With its extensive supply chain and efficient distribution systems, the company has played a pivotalrole in shaping consumer expectations and shopping habits. Beyond retail, Walmart has also ventured into e-commerce, technologyinnovation, and sustainability initiatives, further solidifying its position as a key player in the modern retail ecosystem.
+🎯 Objective
+The objective of this project is to conduct a comprehensive analysis of customer purchase behavior, with a specific focus on purchaseamounts, in relation to customer gender during the Black Friday sales event at Walmart Inc. This study aims to provide valuable insightsthat can assist the management team at Walmart Inc. in making data-driven decisions.
+
+Dataset [Link](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094)
